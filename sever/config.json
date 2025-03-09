@@ -1,9 +1,0 @@
-{
-    "1741507565": {
-        "name": "notepad",
-        "path": "C:\\Windows\\System32\\notepad.exe",
-        "arguments": "",
-        "status": "stopped",
-        "pid": null
-    }
-}
